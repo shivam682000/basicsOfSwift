@@ -4,5 +4,6 @@
         <page name='String'/>
         <page name='Basic'/>
         <page name='Array'/>
+        <page name='Function'/>
     </pages>
 </playground>
