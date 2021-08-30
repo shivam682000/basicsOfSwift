@@ -3,5 +3,6 @@
     <pages>
         <page name='String'/>
         <page name='Basic'/>
+        <page name='Array'/>
     </pages>
 </playground>
