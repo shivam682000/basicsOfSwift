@@ -13,3 +13,4 @@ emptyIntArr.insert(10, at: 0)
 for item in emptyIntArr {
     print(item)
 }
+arr=[7,7,7,7,7]
