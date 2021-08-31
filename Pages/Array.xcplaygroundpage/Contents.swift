@@ -15,3 +15,4 @@ for item in emptyIntArr {
 }
 var arr=[7,7,7,7,7]
 var arr2=[1,1,1,1]
+arr3=[3,3,3,3]
