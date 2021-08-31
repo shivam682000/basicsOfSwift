@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 
-import Foundation
+
 
 func wish(user:String) {
     print("Good Morning \(user). Have a Good day.")
